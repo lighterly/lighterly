@@ -13,6 +13,7 @@ I’m a 19-year-old man who loves to code whatever comes to mind at any time. Th
 ![Rust](https://img.shields.io/badge/Rust-E43717.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00B4E0.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3774A7.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp#&logoColor=white)
 </details>
 
 <details open>
