@@ -1,5 +1,5 @@
 <h1 align="center"> <b>Hi, I'm Lighterly </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
-I’m a 19-year-old man who loves to code whatever comes to mind at any time. This means I have a lot of unfinished projects that I plan to complete someday. In the near future, I will be a software engineer, but for now, I’m a student.
+I’m a 20-year-old man who loves to code whatever comes to mind at any time. This means I have a lot of unfinished projects that I plan to complete someday. In the near future, I will be a software engineer, but for now, I’m a student.
 
 ## 🛠️ My Skills 
 
