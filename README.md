@@ -1,14 +1,14 @@
-<h1 align="center"> <b>Hi, I'm Lighterly </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
+<h1 align="center"> <b>Hi, I'm Lxghtexe </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 I’m a 20-year-old man who loves to code whatever comes to mind at any time. This means I have a lot of unfinished projects that I plan to complete someday. In the near future, I will be a software engineer, but for now, I’m a student.
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://views.igorkowalczyk.dev/api/badge/Lighterly?color=black&labelColor=white" width="90" height="20" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=black&labelColor=white&label=Repos&query=public_repos&url=https://api.github.com/users/Lighterly" height="25" alt="Repositories"/>
-  <img src="https://img.shields.io/github/stars/Lighterly?style=flat&color=black&labelColor=white" height="25" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/Lighterly?style=flat&color=black&labelColor=white" height="25" alt="Followers"/>
+  <img src="https://views.igorkowalczyk.dev/api/badge/Lxghtexe?color=black&labelColor=white" width="90" height="20" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=black&labelColor=white&label=Repos&query=public_repos&url=https://api.github.com/users/Lxghtexe" height="25" alt="Repositories"/>
+  <img src="https://img.shields.io/github/stars/Lxghtexe?style=flat&color=black&labelColor=white" height="25" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/Lxghtexe?style=flat&color=black&labelColor=white" height="25" alt="Followers"/>
 </p>
 
 ## 🛠️ My Skills 
